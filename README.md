@@ -51,7 +51,7 @@ BareCNN is designed as a local Python package. To install it in your environment
 
 ```bash
 # Clone the repository:
-git clone https://github.com/exiort/BareCNN.git  # Replace with your actual repo URL
+git clone https://github.com/exiort/BareCNN.git
 cd BareCNN
 
 # Create and activate a virtual environment (recommended):
