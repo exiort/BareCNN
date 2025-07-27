@@ -52,7 +52,6 @@ BareCNN is designed as a local Python package. To install it in your environment
 ```bash
 # Clone the repository:
 git clone https://github.com/exiort/BareCNN.git
-cd BareCNN
 
 # Create and activate a virtual environment (recommended):
 python -m venv .venv
@@ -72,8 +71,3 @@ Contributions are welcome! Open an issue or PR on GitHub.
 ## 📄 License
 
 MIT License. See the LICENSE file.
-
-## 🙏 Acknowledgements
-
-- Inspired by LeNet-5 by Yann LeCun et al.
-- Thanks to the NumPy community.
